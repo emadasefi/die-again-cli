@@ -9,8 +9,6 @@ A challenging and addictive Terminal User Interface (TUI) precision platformer b
   <img src="https://raw.githubusercontent.com/emadasefi/die-again-cli/main/die-again-cli.gif" alt="Demo" width="100%" />
 </p>
 
-
-
 ---
 
 ## 📑 Table of Contents
