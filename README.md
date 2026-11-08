@@ -1,4 +1,4 @@
-# 💀 DIE AGAIN / TERMINAL
+# 💀 DIE AGAIN CLI
 
 A rage-inducing terminal precision platformer inspired by Die Again and Level Devil. Dodge unpredictable traps, survive fake platforms, and expect to die… again and again!
 
@@ -6,7 +6,7 @@ A challenging and addictive Terminal User Interface (TUI) precision platformer b
 
 > The objective is simple: dodge deadly traps, avoid false grounds, and make your way to the exit (`E`)!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emadasefi/die-hard-cli/main/die-hard-cli.gif" alt="Demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/emadasefi/die-again-cli/main/die-again-cli.gif" alt="Demo" width="100%" />
 </p>
 
 
@@ -73,8 +73,8 @@ Make sure you have **Go** (version 1.20 or higher) installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/emadasefi/die-hard-cli.git
-cd die-hard-cli
+git clone https://github.com/emadasefi/die-again-cli.git
+cd die-again-cli
 ```
 
 2. Download dependencies:
